@@ -1,0 +1,4 @@
+2007 Nissan Altima  11200 70000
+2019 Ford   Mustang 28998 18230
+2012 Toyota Corolla 14349 43819
+

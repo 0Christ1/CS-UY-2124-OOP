@@ -1,0 +1,4 @@
+Moe   77
+Larry 72
+Curly 48
+
