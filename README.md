@@ -50,4 +50,4 @@ This intermediate-level programming course teaches object-oriented programming i
 ## Notes and Tips:
 - It is the first doc I created for my OOP course, uploaded to GitHub for sharing and learning purposes. 
 - Each code was commented for learning. If you want to test it, keep in mind the comment symbol and curly brace. 
-- Feel free to point my mistakes out and I apologize for them in advance. 
+- Feel free to point out my mistakes and I apologize for them in advance. 
