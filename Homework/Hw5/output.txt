@@ -1,0 +1,73 @@
+Attempt to hire Spock by King_Arthur failed!
+Attempting to hire using unknown warrior: George
+Status
+======
+Nobles:
+King_Arthur has an army of 3
+	Tarzan: 4
+	Merlin: 9
+	Leia: 6
+Lancelot_du_Lac has an army of 2
+	Conan: 12
+	Hercules: 3
+Jim has an army of 1
+	Spock: 15
+Linus_Torvalds has an army of 1
+	Xena: 20
+Bill_Gates has an army of 1
+	Hulk: 8
+
+Unemployed Warriors:
+NONE
+You don't work for me anymore Tarzan! -- King_Arthur.
+Status
+======
+Nobles:
+King_Arthur has an army of 2
+	Merlin: 9
+	Leia: 6
+Lancelot_du_Lac has an army of 2
+	Conan: 12
+	Hercules: 3
+Jim has an army of 1
+	Spock: 15
+Linus_Torvalds has an army of 1
+	Xena: 20
+Bill_Gates has an army of 1
+	Hulk: 8
+
+Unemployed Warriors:
+	Tarzan: 4
+King_Arthur battles Lancelot_du_Lac
+Mutual Annihalation: King_Arthur and Lancelot_du_Lac die at each other's hands
+Jim battles Lancelot_du_Lac
+He's dead, Jim
+Linus_Torvalds battles Bill_Gates
+Linus_Torvalds defeats Bill_Gates
+Bill_Gates battles Lancelot_du_Lac
+Oh, NO!  They're both dead!  Yuck!
+Status
+======
+Nobles:
+King_Arthur has an army of 2
+	Merlin: 0
+	Leia: 0
+Lancelot_du_Lac has an army of 2
+	Conan: 0
+	Hercules: 0
+Jim has an army of 1
+	Spock: 15
+Linus_Torvalds has an army of 1
+	Xena: 12
+Bill_Gates has an army of 1
+	Hulk: 0
+
+Unemployed Warriors:
+	Tarzan: 4
+Status
+======
+Nobles:
+NONE
+
+Unemployed Warriors:
+NONE
