@@ -1,0 +1,54 @@
+Part One:
+
+L1: 5 7 9 1 
+L2: 6 3 2 
+Target: 7 9 1 
+Splicing L2 at target in L1
+L1: 5 7 6 3 2 9 1 
+L2: 6 3 2 9 1 
+=====================
+
+Part two: 
+
+Target: 1 2 3 2 3 2 4 5 6 
+
+Attempt pattern: 1 
+1 2 3 2 3 2 4 5 6 
+
+Attempt pattern: 3 9 
+Failed to match
+
+Attempt pattern: 2 3 
+2 3 2 3 2 4 5 6 
+
+Attempt pattern: 2 4 5 6 
+2 4 5 6 
+
+Attempt pattern: 2 3 2 4 
+2 3 2 4 5 6 
+
+Attempt pattern: 5 6 7 
+Failed to match
+
+Attempt pattern: 6 
+6 
+
+Attempt pattern: 
+1 2 3 2 3 2 4 5 6 
+
+Task Three
+Target: 1 2 3 2 3 2 4 5 6 
+Matching target against self:
+Brute force: 1 2 3 2 3 2 4 5 6 
+Using Set:   1 2 3 2 3 2 4 5 6 
+Matching target against dup of self:
+Brute force: 
+Using Set:   
+Matching target against part of self from fourth node:
+Brute force: 2 3 2 4 5 6 
+Using Set:   2 3 2 4 5 6 
+testing against another list whose fourth node matches target's fifth node
+other list:
+5 6 7 3 2 4 5 6 
+Brute force: 3 2 4 5 6 
+Using Set:   3 2 4 5 6 

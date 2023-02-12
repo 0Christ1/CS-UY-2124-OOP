@@ -1,0 +1,26 @@
+Directory: HAL
+Marilyn 123 4567, [Boss,3141.59]
+
+Directory d:
+Directory: HAL
+Marilyn 123 4567, [Boss,3141.59]
+
+Directory d2:
+Directory: HAL
+Marilyn 123 4567, [Boss,3141.59]
+Gallagher 111 2222, [Techie,14142.1]
+Carmack 314 1592, [Techie,14142.1]
+
+Calling doNothing
+Directory: HAL
+Marilyn 123 4567, [Boss,3141.59]
+Gallagher 111 2222, [Techie,14142.1]
+Carmack 314 1592, [Techie,14142.1]
+
+Back from doNothing
+1592
+5813
+Directory: IBM
+Torvalds 628 3185, [Techie,14142.1]
+Ritchie 123 5813, [Techie,14142.1]
+

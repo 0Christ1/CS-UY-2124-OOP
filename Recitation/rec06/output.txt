@@ -1,0 +1,93 @@
+Test 1: Defining a section
+Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students: None
+
+
+Test 2: Adding students to a section
+Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students:
+Name: John, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: George, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Paul, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ringo, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Test 3: Defining a lab worker.
+Moe does not have a section
+
+
+Test 4: Adding a section to a lab worker.
+Moe has Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students:
+Name: John, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: George, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Paul, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ringo, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Test 5: Adding a second section and lab worker.
+Jane has Section: B3, Time slot: [Day: Thursday, Start time: 11am], Students:
+Name: Thorin, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Dwalin, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Balin, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Kili, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Fili, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Dori, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Nori, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ori, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Oin, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Gloin, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Bifur, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Bofur, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Bombur, Grades: -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Test 6: Adding some grades for week one
+Moe has Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students:
+Name: John, Grades: 17 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: George, Grades: 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Paul, Grades: 19 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ringo, Grades: 7 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Test 7: Adding some grades for week three (skipping week 2)
+Moe has Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students:
+Name: John, Grades: 17 -1 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: George, Grades: 16 -1 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Paul, Grades: 19 -1 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ringo, Grades: 7 -1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+
+Test 8: We're done (almost)! 
+What should happen to all those students (or rather their records?)
+
+Test 9: Oh, IF you have covered copy constructors in lecture, then make sure the following call works
+Section: A2, Time slot: [Day: Tuesday, Start time: 4pm], Students:
+Name: John, Grades: 17 -1 15 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: George, Grades: 16 -1 16 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Paul, Grades: 19 -1 20 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Name: Ringo, Grades: 7 -1 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Section A2 is being deleted
+Deleting John
+Deleting George
+Deleting Paul
+Deleting Ringo
+Back from doNothing
+
+Section B3 is being deleted
+Deleting Thorin
+Deleting Dwalin
+Deleting Balin
+Deleting Kili
+Deleting Fili
+Deleting Dori
+Deleting Nori
+Deleting Ori
+Deleting Oin
+Deleting Gloin
+Deleting Bifur
+Deleting Bofur
+Deleting Bombur
+Section A2 is being deleted
+Deleting John
+Deleting George
+Deleting Paul
+Deleting Ringo

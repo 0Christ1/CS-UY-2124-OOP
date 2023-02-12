@@ -1,0 +1,91 @@
+Task1a:
+Filling vector of struct objects, define a local struct instance
+and set fields explicitly:
+moe	6
+larry	28
+curly	42
+Task1b:
+Filling vector of struct objects, using {} initialization:
+moe	6
+larry	28
+curly	42
+==============
+
+Task2a:
+Filling vector of class objects, using local class object:
+moe	6
+larry	28
+curly	42
+---
+
+Task2b:
+output using output operator with getters
+moe	6
+larry	28
+curly	42
+
+Task2c:
+output using output operator as friend without getters
+moe	6
+larry	28
+curly	42
+
+Task2d:
+Filling vector of class objects, using temporary class object:
+moe	6
+larry	28
+curly	42
+
+Task2e:
+Filling vector of class objects, using emplace_back:
+moe	6
+larry	28
+curly	42
+==============
+
+Task 3:
+Accounts and Transaction:
+Account# 6 has only 10. Insufficient for withdrawal of 100.
+Account# 28 has only 0. Insufficient for withdrawal of 100.
+moe	6:
+	deposit 10
+
+larry	28:
+	deposit 10
+	deposit 10
+	withdrawal 5
+
+curly	42:
+
+==============
+
+Task 4:
+Transaction nested in Account:
+Account# 6 has only 10. Insufficient for withdrawal of 100.
+Account# 28 has only 0. Insufficient for withdrawal of 100.
+moe	6:
+	deposit 10
+
+larry	28:
+	deposit 10
+	deposit 10
+	withdrawal 5
+
+curly	42:
+
+==============
+
+Task 5:
+Transaction nested in Account:
+Account# 6 has only 10. Insufficient for withdrawal of 100.
+Account# 28 has only 0. Insufficient for withdrawal of 100.
+moe	6:
+	deposit 10
+
+larry	28:
+	deposit 10
+	deposit 10
+	withdrawal 5
+
+curly	42:
+

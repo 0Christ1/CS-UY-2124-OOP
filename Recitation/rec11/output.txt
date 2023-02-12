@@ -1,0 +1,72 @@
+P A R T  O N E
+Define some instruments ----------------------------------------
+Define the MILL ------------------------------------------------
+Put the instruments into the MILL ------------------------------
+To make a sound... blow on a mouthpiece of size 12
+To make a sound... bow a string with pitch 567
+To make a sound... blow on a mouthpiece of size 4
+To make a sound... hit me!
+To make a sound... bow a string with pitch 673
+To make a sound... hit me!
+Daily test -----------------------------------------------------
+dailyTestPlay()
+To make a sound... blow on a mouthpiece of size 12
+To make a sound... bow a string with pitch 567
+To make a sound... blow on a mouthpiece of size 4
+To make a sound... hit me!
+To make a sound... bow a string with pitch 673
+To make a sound... hit me!
+
+Define some Musicians-------------------------------------------
+TESTING: groucho.acceptInstr(mill.loanOut());---------------
+have no instr
+
+
+To make a sound... blow on a mouthpiece of size 12
+
+dailyTestPlay()
+To make a sound... bow a string with pitch 567
+To make a sound... blow on a mouthpiece of size 4
+To make a sound... hit me!
+To make a sound... bow a string with pitch 673
+To make a sound... hit me!
+
+
+To make a sound... blow on a mouthpiece of size 12
+
+To make a sound... blow on a mouthpiece of size 12
+
+To make a sound... bow a string with pitch 567
+
+To make a sound... blow on a mouthpiece of size 12
+
+dailyTestPlay()
+To make a sound... blow on a mouthpiece of size 4
+To make a sound... hit me!
+To make a sound... bow a string with pitch 673
+To make a sound... hit me!
+TESTING: mill.receiveInstr(*groucho.giveBackInstr()); ------
+To make a sound... bow a string with pitch 567
+TESTING: mill.receiveInstr(*harpo.giveBackInstr()); ------
+To make a sound... blow on a mouthpiece of size 12
+
+dailyTestPlay()
+To make a sound... bow a string with pitch 567
+To make a sound... blow on a mouthpiece of size 12
+To make a sound... blow on a mouthpiece of size 4
+To make a sound... hit me!
+To make a sound... bow a string with pitch 673
+To make a sound... hit me!
+
+
+orch performs
+
+To make a sound... blow on a mouthpiece of size 12
+orch performs
+ScreechBlatToot
+orch performs
+ScreechBlatToot
+orch performs
+SquawkScreechBlatTootCrash
+orch performs
+SquawkScreechBlatTootCrashBoom
