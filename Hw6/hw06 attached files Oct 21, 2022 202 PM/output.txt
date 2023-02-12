@@ -1,0 +1,60 @@
+================ Initial Status ===============
+King Arthur has an army of 4
+	Teal'c: 9
+	Tarzan: 4
+	Merlin: 9
+	Leia: 6
+
+Lancelot du Lac has an army of 2
+	Conan: 12
+	Hercules: 3
+
+Jim has an army of 1
+	Spock: 15
+
+Linus Torvalds has an army of 1
+	Xena: 20
+
+Bill Gates has an army of 1
+	Hulk: 8
+
+===============================================
+
+You don't work for me anymore Tarzan! -- King Arthur.
+Merlin flees in terror, abandoning his lord, King Arthur
+
+King Arthur has an army of 2
+	Teal'c: 9
+	Leia: 6
+
+King Arthur battles Lancelot du Lac
+Mutual Annihilation: King Arthur and Lancelot du Lac die at each other's hands
+Jim battles Lancelot du Lac
+He's dead, Jim
+Linus Torvalds battles Bill Gates
+Linus Torvalds defeats Bill Gates
+Bill Gates battles Lancelot du Lac
+Oh, NO!  They're both dead!  Yuck!
+
+================ Final Status ===============
+King Arthur has an army of 2
+	Teal'c: 0
+	Leia: 0
+
+Lancelot du Lac has an army of 2
+	Conan: 0
+	Hercules: 0
+
+Jim has an army of 1
+	Spock: 15
+
+Linus Torvalds has an army of 1
+	Xena: 12
+
+Bill Gates has an army of 1
+	Hulk: 0
+
+Tarzan's Hire Status: false
+Merlin's Hire Status: false
+===============================================
+
